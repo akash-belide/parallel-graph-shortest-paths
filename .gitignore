@@ -1,0 +1,12 @@
+# Compiled binaries
+*.out
+*.exe
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Temporary files
+*.tmp
